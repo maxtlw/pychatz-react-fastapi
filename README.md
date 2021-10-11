@@ -2,7 +2,7 @@ Simple real-time chat application, including both a server and a client UI.
 
 📖 Coded from scratch to learn React.js! 😊
 
-![Tests](https://github.com/thelearningwolf/pychatz-react-fastapi/actions/workflows/tests.yml/badge.svg)
+![Tests](https://github.com/maxtlw/pychatz-react-fastapi/actions/workflows/tests.yml/badge.svg)
 
 <hr />
 
